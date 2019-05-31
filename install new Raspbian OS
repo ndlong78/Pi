@@ -1,0 +1,6 @@
+how to install
+1. Download the latest version of the Raspbian OS, 
+    http://downloads.raspberrypi.org/raspbian_latest
+2. Extract Zip file
+3. Installation of Raspbian on the SD card of Raspberry Pi using Win32DiskManager 
+http://sourceforge.net/projects/win32diskimager/files/latest/download
